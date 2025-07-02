@@ -42,7 +42,7 @@ The goal of this project is to practice:
 
 ## 📁 Live Site
 
-You can view the project [here](https://SerhatKargin.github.io/color-markers/)
+You can view the project [here](https://SerhatKargin.github.io/colored-markers/)
 
 ---
 
